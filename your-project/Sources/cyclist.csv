@@ -1,0 +1,514 @@
+,id,name,nationality,sex,date_of_birth,height,weight,sport,gold,silver,bronze
+0,33922579,Aaron Gate,NZL,male,1990-11-26,1.81,71.0,cycling,0.0,0.0,0.0
+1,285603057,Abderrahmane Mansouri,ALG,male,1995-01-13,1.72,66.0,cycling,0.0,0.0,0.0
+2,184652432,Adam Yates,GBR,male,1992-08-07,1.72,58.0,cycling,0.0,0.0,0.0
+3,664737236,Adrien Niyonshuti,RWA,male,1987-01-02,1.65,68.0,cycling,0.0,0.0,0.0
+4,696999235,Ahmet Orken,TUR,male,1993-03-12,1.77,69.0,cycling,0.0,0.0,0.0
+5,47988332,Ahreum Na,KOR,female,1990-03-24,1.63,55.0,cycling,0.0,0.0,0.0
+6,275659106,Alan Hatherly,RSA,male,1996-03-15,1.78,62.0,cycling,0.0,0.0,0.0
+7,813391088,Alejandro Valverde Belmonte,ESP,male,1980-04-25,1.77,63.0,cycling,0.0,0.0,0.0
+8,646633611,Aleksei Kurbatov,RUS,male,1994-05-09,1.7466260162601637,67.75510204081633,cycling,0.0,0.0,0.0
+9,285964258,Aleksejs Saramotins,LAT,male,1982-04-08,1.85,75.0,cycling,0.0,0.0,0.0
+10,603507285,Alena Amialiusik,BLR,female,1989-02-06,1.69,52.0,cycling,0.0,0.0,0.0
+11,630246233,Alessandro De Marchi,ITA,male,1986-05-19,1.81,66.0,cycling,0.0,0.0,0.0
+12,737791847,Alexander Edmondson,AUS,male,1993-12-22,1.84,76.0,cycling,0.0,1.0,0.0
+13,100528515,Alexander Gehbauer,AUT,male,1990-04-24,1.85,70.0,cycling,0.0,0.0,0.0
+14,194257222,Alexis Vuillermoz,FRA,male,1988-06-01,1.73,60.0,cycling,0.0,0.0,0.0
+15,450635887,Alfredo Campo,ECU,male,1993-03-02,1.92,90.0,cycling,0.0,0.0,0.0
+16,768503351,Ali Nouisri,TUN,male,1994-01-20,1.84,75.0,cycling,0.0,0.0,0.0
+17,269057885,Alise Post,USA,female,1991-01-17,1.58,56.0,cycling,0.0,1.0,0.0
+18,373002185,Allison Beveridge,CAN,female,1993-06-01,1.69,62.0,cycling,0.0,0.0,1.0
+19,605176733,Amalie Dideriksen,DEN,female,1996-05-24,1.75,62.0,cycling,0.0,0.0,0.0
+20,574915810,Amanda Carr,THA,female,1990-06-24,1.65,60.0,cycling,0.0,0.0,0.0
+21,340529563,Amanda Spratt,AUS,female,1987-09-17,1.61,55.0,cycling,0.0,0.0,0.0
+22,607523494,Amidou Mir,FRA,male,1995-01-01,1.73,78.0,cycling,0.0,0.0,0.0
+23,872045656,Amy Cure,AUS,female,1992-12-31,1.72,63.0,cycling,0.0,0.0,0.0
+24,491417402,An-Li Kachelhoffer,RSA,female,1987-08-16,1.6,50.0,cycling,0.0,0.0,0.0
+25,543833436,Ana Sanabria,COL,female,1990-05-02,1.56,51.0,cycling,0.0,0.0,0.0
+26,129887602,Anass Ait El Abdia,MAR,male,1993-03-21,1.8,66.0,cycling,0.0,0.0,0.0
+27,874606295,Anastasiia Voinova,RUS,female,1993-02-05,1.62,62.0,cycling,0.0,1.0,0.0
+28,222880699,Andras Parti,HUN,male,1982-09-18,1.74,67.0,cycling,0.0,0.0,0.0
+29,662859051,Andre Fernando S. Martins Cardoso,POR,male,1984-09-03,1.68,57.0,cycling,0.0,0.0,0.0
+30,36880136,Andrea Tiberi,ITA,male,1985-11-15,1.83,71.0,cycling,0.0,0.0,0.0
+31,930021019,Andrey Amador Bikkazakova,CRC,male,1986-08-29,1.83,73.0,cycling,0.0,0.0,0.0
+32,213371438,Andrey Fonseca,CRC,male,1993-04-08,1.68,56.0,cycling,0.0,0.0,0.0
+33,295536761,Andrey Zeits,KAZ,male,1986-12-14,1.7466260162601637,67.75510204081633,cycling,0.0,0.0,0.0
+34,730965977,Andrii Khripta,UKR,male,1986-11-29,1.7466260162601637,67.75510204081633,cycling,0.0,0.0,0.0
+35,856444352,Andriy Grivko,UKR,male,1983-08-07,1.8,69.0,cycling,0.0,0.0,0.0
+36,259399361,Ane Santesteban Gonzalez,ESP,female,1990-12-12,1.6,48.0,cycling,0.0,0.0,0.0
+37,283823153,Angel Pulgar,VEN,male,1989-02-07,1.74,79.0,cycling,0.0,0.0,0.0
+38,697735361,Angie Sabrina Gonzalez,VEN,female,1981-01-03,1.6,57.0,cycling,0.0,0.0,0.0
+39,795806548,Anisha Vekemans,BEL,female,1991-08-17,1.6,52.0,cycling,0.0,0.0,0.0
+40,266461639,Ann-Sophie Duyck,BEL,female,1987-07-23,1.72,60.0,cycling,0.0,0.0,0.0
+41,573321803,Anna Knauer,GER,female,1995-02-20,1.7,60.0,cycling,0.0,0.0,0.0
+42,68194105,Anna Plichta,POL,female,1992-02-10,1.76,60.0,cycling,0.0,0.0,0.0
+43,232686773,Anna van der Breggen,NED,female,1990-04-18,1.67,56.0,cycling,1.0,0.0,1.0
+44,676612958,Anne Terpstra,NED,female,1991-01-05,1.66,57.0,cycling,0.0,0.0,0.0
+45,706092659,Annemiek van Vleuten,NED,female,1982-10-08,1.68,59.0,cycling,0.0,0.0,0.0
+46,297653287,Annette Edmondson,AUS,female,1991-12-12,1.71,65.0,cycling,0.0,0.0,0.0
+47,614874748,Annika Langvad,DEN,female,1984-03-22,1.74,63.0,cycling,0.0,0.0,0.0
+48,76732813,Anthony Dean,AUS,male,1991-04-22,1.75,87.0,cycling,0.0,0.0,0.0
+49,778856814,Antoine Duchesne,CAN,male,1991-09-12,1.89,73.0,cycling,0.0,0.0,0.0
+50,299113520,Anton Sintsov,RUS,male,1985-02-03,1.7,62.0,cycling,0.0,0.0,0.0
+51,500105232,Antri Christoforou,CYP,female,1992-04-02,1.66,53.0,cycling,0.0,0.0,0.0
+52,30042829,Ariya Phounsavath,LAO,male,1991-03-02,1.82,58.0,cycling,0.0,0.0,0.0
+53,292905261,Arlenis Sierra Canadilla,CUB,female,1992-12-07,1.62,57.0,cycling,0.0,0.0,0.0
+54,638975983,Artyom Zakharov,KAZ,male,1991-10-27,1.77,70.0,cycling,0.0,0.0,0.0
+55,531231218,Arvin Moazami Godarzi,IRI,male,1990-03-26,1.85,73.0,cycling,0.0,0.0,0.0
+56,464180251,Ashlee Ankudinoff,AUS,female,1990-08-20,1.74,67.0,cycling,0.0,0.0,0.0
+57,193259308,Ashleigh Moolman-Pasio,RSA,female,1985-12-09,1.63,52.0,cycling,0.0,0.0,0.0
+58,754931470,Audrey Cordon,FRA,female,1989-09-22,1.7,60.0,cycling,0.0,0.0,0.0
+59,295847383,Azizulhasni Awang,MAS,male,1988-01-05,1.66,69.0,cycling,0.0,0.0,1.0
+60,803535676,Bakhtiyar Kozhatayev,KAZ,male,1992-03-28,1.77,70.0,cycling,0.0,0.0,0.0
+61,368675991,Baofang Zhao,CHN,female,1993-08-12,1.7,64.0,cycling,0.0,0.0,0.0
+62,38294792,Bauke Mollema,NED,male,1986-11-26,1.84,68.0,cycling,0.0,0.0,0.0
+63,350429572,Bayron Guama de la Cruz,ECU,male,1985-06-14,1.65,61.0,cycling,0.0,0.0,0.0
+64,909285894,Beatrice Bartelloni,ITA,female,1993-02-05,1.65,50.0,cycling,0.0,0.0,0.0
+65,112585422,Bobby Lea,USA,male,1983-10-17,1.88,77.0,cycling,0.0,0.0,0.0
+66,903668874,Bodi Turner,AUS,male,1994-09-18,1.8,81.0,cycling,0.0,0.0,0.0
+67,125216390,Brent Bookwalter,USA,male,1984-02-16,1.81,68.0,cycling,0.0,0.0,0.0
+68,234656577,Brian Babilonia,PUR,male,1994-09-16,1.8,66.0,cycling,0.0,0.0,0.0
+69,229593375,Brooke Crain,USA,female,1993-04-29,1.63,55.0,cycling,0.0,0.0,0.0
+70,205286149,Callum Scotson,AUS,male,1996-08-10,1.84,77.0,cycling,0.0,1.0,0.0
+71,598986059,Callum Skinner,GBR,male,1992-08-20,1.87,93.0,cycling,1.0,1.0,0.0
+72,132849150,Carlos Alberto Ramirez Yepes,COL,male,1994-03-12,1.78,65.0,cycling,0.0,0.0,1.0
+73,664891338,Carlos Coloma Nicolas,ESP,male,1981-09-28,1.71,65.0,cycling,0.0,0.0,1.0
+74,120477759,Carlos Mario Oquendo Zabala,COL,male,1987-11-16,1.86,85.0,cycling,0.0,0.0,0.0
+75,275280990,Carolina Rodriguez Gutierrez,MEX,female,1993-09-30,1.63,80.0,cycling,0.0,0.0,0.0
+76,583629384,Casper Pedersen,DEN,male,1996-03-15,1.86,74.0,cycling,0.0,0.0,0.0
+77,579676651,Casper von Folsach,DEN,male,1993-03-30,1.91,82.0,cycling,0.0,0.0,1.0
+78,985557149,Catharine Pendrel,CAN,female,1980-09-30,1.66,50.0,cycling,0.0,0.0,1.0
+79,187632862,Catriel Andres Soto,ARG,male,1987-04-29,1.75,68.0,cycling,0.0,0.0,0.0
+80,15259050,Cesar Marcano,VEN,male,1987-10-22,1.77,76.0,cycling,0.0,0.0,0.0
+81,406780652,Chaebin Im,KOR,male,1991-10-29,1.69,75.0,cycling,0.0,0.0,0.0
+82,25695000,Chantal Hoffmann,LUX,female,1987-10-30,1.67,62.0,cycling,0.0,0.0,0.0
+83,89640785,Chao Xu,CHN,male,1994-11-05,1.85,82.0,cycling,0.0,0.0,0.0
+84,445362383,Charlotte Becker,GER,female,1983-05-19,1.73,64.0,cycling,0.0,0.0,0.0
+85,397297354,Chenlu Qin,CHN,male,1992-10-24,1.75,70.0,cycling,0.0,0.0,0.0
+86,908812309,Chloe Dygert,USA,female,1997-01-01,1.76,66.0,cycling,0.0,1.0,0.0
+87,87537613,Chloe Woodruff,USA,female,1987-07-21,1.58,51.0,cycling,0.0,0.0,0.0
+88,518947875,Chris Anker Sorensen,DEN,male,1984-09-05,1.84,65.0,cycling,0.0,0.0,0.0
+89,348981852,Christine Majerus,LUX,female,1987-02-25,1.74,57.0,cycling,0.0,0.0,0.0
+90,795060269,Christopher Froome,GBR,male,1985-05-20,1.85,69.0,cycling,0.0,0.0,1.0
+91,488320135,Christopher Juul Jensen,DEN,male,1989-07-06,1.85,75.0,cycling,0.0,0.0,0.0
+92,416304981,Christos Volikakis,GRE,male,1988-03-25,1.7,85.0,cycling,0.0,0.0,0.0
+93,160814814,Chun Hing Chan,HKG,male,1981-04-24,1.7,70.0,cycling,0.0,0.0,0.0
+94,932296367,Chun Wing Leung,HKG,male,1994-01-20,1.76,73.0,cycling,0.0,0.0,0.0
+95,784773877,Ciara Horne,GBR,female,1989-09-17,1.79,63.0,cycling,0.0,0.0,0.0
+96,695148064,Claudia Lichtenberg,GER,female,1985-11-17,1.7,51.0,cycling,0.0,0.0,0.0
+97,526600784,Clemilda Fernandes Silva,BRA,female,1979-06-25,1.63,54.0,cycling,0.0,0.0,0.0
+98,868434625,Connor Fields,USA,male,1992-09-14,1.83,88.0,cycling,1.0,0.0,0.0
+99,752996196,Corben Sharrah,USA,male,1992-04-20,1.83,85.0,cycling,0.0,0.0,0.0
+100,601293149,Cyrille Thiery,SUI,male,1990-09-27,1.79,67.0,cycling,0.0,0.0,0.0
+101,242973427,Daiva Tuslaite,LTU,female,1986-06-18,1.72,58.0,cycling,0.0,0.0,0.0
+102,112793044,Damian Zielinski,POL,male,1981-12-02,1.85,92.0,cycling,0.0,0.0,0.0
+103,315107389,Damiano Caruso,ITA,male,1987-10-12,1.79,65.0,cycling,0.0,0.0,0.0
+104,715044035,Dan Craven,NAM,male,1983-02-01,1.83,76.0,cycling,0.0,0.0,0.0
+105,93209165,Daniel Diaz,ARG,male,1989-07-07,1.68,63.0,cycling,0.0,0.0,0.0
+106,635773855,Daniel Martin,IRL,male,1986-08-20,1.76,63.0,cycling,0.0,0.0,0.0
+107,108357874,Daniel McConnell,AUS,male,1985-08-09,1.8,70.0,cycling,0.0,0.0,0.0
+108,815557568,Daniel Teklehaimanot,ERI,male,1988-11-10,1.7466260162601637,67.75510204081633,cycling,0.0,0.0,0.0
+109,490419163,Daniela Campuzano Chavez Peon,MEX,female,1986-10-21,1.73,56.0,cycling,0.0,0.0,0.0
+110,183631297,Daria Pikulik,POL,female,1997-01-06,1.65,54.0,cycling,0.0,0.0,0.0
+111,399441834,Daria Shmeleva,RUS,female,1994-10-26,1.64,64.0,cycling,0.0,1.0,0.0
+112,590695708,Daryl Impey,RSA,male,1984-12-06,1.83,70.0,cycling,0.0,0.0,0.0
+113,146589026,David Graf,SUI,male,1989-09-08,1.8,79.0,cycling,0.0,0.0,0.0
+114,440645107,David Joao Serralheiro Rosa,POR,male,1986-11-12,1.65,52.0,cycling,0.0,0.0,0.0
+115,643201191,David Valero Serrano,ESP,male,1988-12-27,1.89,76.0,cycling,0.0,0.0,0.0
+116,503917240,Denis Dmitriev,RUS,male,1986-03-23,1.77,90.0,cycling,0.0,0.0,1.0
+117,432632544,Denys Kostyuk,UKR,male,1982-03-13,1.75,62.0,cycling,0.0,0.0,0.0
+118,39686227,Diego Milan Jimenez,DOM,male,1985-07-10,1.79,67.0,cycling,0.0,0.0,0.0
+119,820045789,Diego Rosa,ITA,male,1989-03-27,1.78,65.0,cycling,0.0,0.0,0.0
+120,173609909,Dimitrios Antoniadis,GRE,male,1992-07-29,1.8,69.0,cycling,0.0,0.0,0.0
+121,451025767,Domenic Weinstein,GER,male,1994-08-27,1.88,83.0,cycling,0.0,0.0,0.0
+122,78993724,Dongjin Kang,KOR,male,1987-12-23,1.68,76.0,cycling,0.0,0.0,0.0
+123,259066180,Dongyan Huang,CHN,female,1993-12-14,1.72,63.0,cycling,0.0,0.0,0.0
+124,965509678,Dylan Kennett,NZL,male,1994-12-08,1.78,75.0,cycling,0.0,0.0,0.0
+125,559696143,Ebtissam Mohamed,EGY,female,1996-09-25,1.63,54.0,cycling,0.0,0.0,0.0
+126,367849834,Eduardo Sepulveda,ARG,male,1991-06-13,1.73,63.0,cycling,0.0,0.0,0.0
+127,706338154,Edvald Boasson Hagen,NOR,male,1987-05-17,1.7466260162601637,67.75510204081633,cycling,0.0,0.0,0.0
+128,128111311,Edward Clancy,GBR,male,1985-03-12,1.85,79.0,cycling,1.0,0.0,0.0
+129,461207068,Edward Dawkins,NZL,male,1989-07-11,1.85,93.0,cycling,0.0,1.0,0.0
+130,32569642,Edyta Jasinska,POL,female,1986-11-28,1.77,68.0,cycling,0.0,0.0,0.0
+131,594266311,Edzus Treimanis,LAT,male,1988-04-21,1.83,82.0,cycling,0.0,0.0,0.0
+132,869725095,Elena Cecchini,ITA,female,1992-05-25,1.68,55.0,cycling,0.0,0.0,0.0
+133,307747512,Elia Viviani,ITA,male,1989-02-07,1.77,70.0,cycling,1.0,0.0,0.0
+134,460751397,Elinor Barker,GBR,female,1994-09-07,1.68,56.0,cycling,1.0,0.0,0.0
+135,613098347,Elis Ligtlee,NED,female,1994-06-28,1.85,90.0,cycling,1.0,0.0,0.0
+136,757900456,Elisa Longo Borghini,ITA,female,1991-12-10,1.7,59.0,cycling,0.0,0.0,1.0
+137,184528790,Elke Vanhoof,BEL,female,1991-12-16,1.63,60.0,cycling,0.0,0.0,0.0
+138,322522581,Ellen van Dijk,NED,female,1987-02-11,1.82,71.0,cycling,0.0,0.0,0.0
+139,829728385,Emanuel Buchmann,GER,male,1992-11-18,1.81,61.0,cycling,0.0,0.0,0.0
+140,43289045,Emilia Fahlin,SWE,female,1988-10-24,1.76,62.0,cycling,0.0,0.0,0.0
+141,702824407,Emily Batty,CAN,female,1988-06-16,1.61,48.0,cycling,0.0,0.0,0.0
+142,763495268,Emma Hinze,GER,female,1997-09-17,1.68,63.0,cycling,0.0,0.0,0.0
+143,87473289,Emma Johansson,SWE,female,1983-09-23,1.68,54.0,cycling,0.0,1.0,0.0
+144,493087174,Emma Pooley,GBR,female,1982-10-03,1.57,50.0,cycling,0.0,0.0,0.0
+145,370045491,Eri Yonamine,JPN,female,1991-04-25,1.6,51.0,cycling,0.0,0.0,0.0
+146,711536725,Ethan Mitchell,NZL,male,1991-02-19,1.8,83.0,cycling,0.0,1.0,0.0
+147,810831172,Eva Lechner,ITA,female,1985-07-01,1.65,50.0,cycling,0.0,0.0,0.0
+148,176808861,Evelyn Stevens,USA,female,1983-05-09,1.66,55.0,cycling,0.0,0.0,0.0
+149,474060754,Evgeny Komarov,RUS,male,1988-11-08,1.75,78.0,cycling,0.0,0.0,0.0
+150,940097096,Fabian Cancellara,SUI,male,1981-03-18,1.86,81.0,cycling,1.0,0.0,0.0
+151,3921925,Fabian Hernando Puerta Zapata,COL,male,1991-07-12,1.82,90.0,cycling,0.0,0.0,0.0
+152,748389052,Fabio Aru,ITA,male,1990-07-03,1.83,65.0,cycling,0.0,0.0,0.0
+153,335487444,Fatehah Mustapa,MAS,female,1989-03-12,1.63,64.0,cycling,0.0,0.0,0.0
+154,392897095,Fernando Gaviria Rendon,COL,male,1994-08-19,1.8,70.0,cycling,0.0,0.0,0.0
+155,14229029,Filippo Ganna,ITA,male,1996-07-25,1.95,75.0,cycling,0.0,0.0,0.0
+156,933661571,Flavia Oliveira,BRA,female,1981-10-27,1.56,46.0,cycling,0.0,0.0,0.0
+157,861278504,Francelina Cabral,TLS,female,1985-03-23,1.65,67.75510204081633,cycling,0.0,0.0,0.0
+158,535720666,Francesca Pattaro,ITA,female,1995-03-12,1.7,58.0,cycling,0.0,0.0,0.0
+159,720788958,Francesco Lamon,ITA,male,1994-02-05,1.73,60.0,cycling,0.0,0.0,0.0
+160,410698560,Francois Pervis,FRA,male,1984-10-16,1.8,88.0,cycling,0.0,0.0,1.0
+161,715378085,Frank Schleck,LUX,male,1980-04-15,1.85,63.0,cycling,0.0,0.0,0.0
+162,675256468,Frederik Madsen,DEN,male,1998-01-22,1.87,73.0,cycling,0.0,0.0,1.0
+163,902039181,Gael Suter,SUI,male,1992-03-23,1.76,70.0,cycling,0.0,0.0,0.0
+164,656968895,Ganna Solovei,UKR,female,1992-01-31,1.67,56.0,cycling,0.0,0.0,0.0
+165,814234541,Georg Preidler,AUT,male,1990-06-17,1.89,70.0,cycling,0.0,0.0,0.0
+166,378090753,George Bennett,NZL,male,1990-04-07,1.81,58.0,cycling,0.0,0.0,0.0
+167,974930725,Georgia Baker,AUS,female,1994-09-21,1.79,66.0,cycling,0.0,0.0,0.0
+168,405138190,Georgia Simmerling,CAN,female,1989-03-11,1.72,67.0,cycling,0.0,0.0,1.0
+169,304591948,Georgia Williams,NZL,female,1993-08-25,1.7,60.0,cycling,0.0,0.0,0.0
+170,679229547,Geraint Thomas,GBR,male,1986-05-25,1.83,70.0,cycling,0.0,0.0,0.0
+171,962431612,Ghader Mizbani Iranagh,IRI,male,1975-12-06,1.75,67.0,cycling,0.0,0.0,0.0
+172,425384574,Gideoni Monteiro,BRA,male,1989-09-02,1.8,77.0,cycling,0.0,0.0,0.0
+173,980482855,Giorgia Bronzini,ITA,female,1983-08-03,1.6,54.0,cycling,0.0,0.0,0.0
+174,994296683,Githa Michiels,BEL,female,1983-03-28,1.66,60.0,cycling,0.0,0.0,0.0
+175,344080952,Glenn O'Shea,AUS,male,1989-06-14,1.8,76.0,cycling,0.0,0.0,0.0
+176,124979010,Gonzalo Molina,ARG,male,1995-05-05,1.78,83.0,cycling,0.0,0.0,0.0
+177,893023802,Gracie Elvin,AUS,female,1988-10-31,1.75,65.0,cycling,0.0,0.0,0.0
+178,104640408,Grant Ferguson,GBR,male,1993-11-15,1.86,64.0,cycling,0.0,0.0,0.0
+179,503615176,Greg van Avermaet,BEL,male,1985-05-17,1.81,74.0,cycling,1.0,0.0,0.0
+180,160584680,Gregory Bauge,FRA,male,1985-01-31,1.81,100.0,cycling,0.0,0.0,1.0
+181,511096047,Gudrun Stock,GER,female,1995-05-23,1.68,62.0,cycling,0.0,0.0,0.0
+182,504342645,Gunn-Rita Dahle Flesjaa,NOR,female,1973-02-10,1.7466260162601637,67.75510204081633,cycling,0.0,0.0,0.0
+183,955199694,Hao Liu,CHN,male,1988-11-07,1.89,79.0,cycling,0.0,0.0,0.0
+184,927855997,Hayden Roulston,NZL,male,1981-01-10,1.86,78.0,cycling,0.0,0.0,0.0
+185,77008314,Helen Grobert,GER,female,1992-04-11,1.75,58.0,cycling,0.0,0.0,0.0
+186,707272550,Helena Casas Roige,ESP,female,1988-07-24,1.63,63.0,cycling,0.0,0.0,0.0
+187,280401602,Henning Bommel,GER,male,1983-02-23,1.83,79.0,cycling,0.0,0.0,0.0
+188,683131991,Henrique Avancini,BRA,male,1989-03-30,1.76,67.0,cycling,0.0,0.0,0.0
+189,875801164,Hersony Canelon,VEN,male,1988-12-08,1.76,73.0,cycling,0.0,0.0,0.0
+190,426998976,Howard Grotts,USA,male,1993-01-12,1.71,58.0,cycling,0.0,0.0,0.0
+191,743741137,Hugo Barrette,CAN,male,1991-07-04,1.75,90.0,cycling,0.0,0.0,0.0
+192,823618365,Hugo Houle,CAN,male,1990-09-27,1.83,69.0,cycling,0.0,0.0,0.0
+193,328642843,Hyejin Lee,KOR,female,1992-01-23,1.65,61.0,cycling,0.0,0.0,0.0
+194,224119413,Ian Stannard,GBR,male,1987-05-25,1.91,80.0,cycling,0.0,0.0,0.0
+195,212081217,Ignacio Prado,MEX,male,1993-09-21,1.78,65.0,cycling,0.0,0.0,0.0
+196,317258255,Ignatas Konovalovas,LTU,male,1985-12-08,1.9,75.0,cycling,0.0,0.0,0.0
+197,186497946,Imanol Erviti Ollo,ESP,male,1983-11-15,1.9,80.0,cycling,0.0,0.0,0.0
+198,557528943,Ioannis Tamouridis,GRE,male,1980-06-03,1.8,73.0,cycling,0.0,0.0,0.0
+199,557552346,Irina Kalentyeva,RUS,female,1977-11-10,1.55,45.0,cycling,0.0,0.0,0.0
+200,413999687,Iryna Popova,UKR,female,1991-05-27,1.64,53.0,cycling,0.0,0.0,0.0
+201,150785655,Ivan Stevic,SRB,male,1980-03-12,1.72,68.0,cycling,0.0,0.0,0.0
+202,579353978,Jack Bobridge,AUS,male,1989-07-13,1.8,65.0,cycling,0.0,1.0,0.0
+203,863481965,Jaime Nielsen,NZL,female,1985-09-03,1.77,70.0,cycling,0.0,0.0,0.0
+204,833814609,Jakob Fuglsang,DEN,male,1985-03-22,1.83,69.0,cycling,0.0,1.0,0.0
+205,964836144,James Reid,RSA,male,1992-08-01,1.8,70.0,cycling,0.0,0.0,0.0
+206,621534555,Jan Barta,CZE,male,1984-12-07,1.84,75.0,cycling,0.0,0.0,0.0
+207,33776196,Jan Polanc,SLO,male,1992-05-06,1.72,60.0,cycling,0.0,0.0,0.0
+208,860104103,Jan Skarnitzl,CZE,male,1986-07-11,1.79,68.0,cycling,0.0,0.0,0.0
+209,726313430,Jan-Willem van Schip,NED,male,1994-08-20,1.94,83.0,cycling,0.0,0.0,0.0
+210,797374623,Jarlinson Pantano Gomez,COL,male,1988-11-19,1.7466260162601637,67.75510204081633,cycling,0.0,0.0,0.0
+211,167236182,Jaroslav Kulhavy,CZE,male,1985-01-08,1.88,77.0,cycling,0.0,1.0,0.0
+212,489559768,Jasmin Glaesser,CAN,female,1992-07-08,1.67,58.0,cycling,0.0,0.0,1.0
+213,441111357,Jason Kenny,GBR,male,1988-03-23,1.78,81.0,cycling,3.0,0.0,0.0
+214,662058490,Jasper De Buyst,BEL,male,1993-11-24,1.78,69.0,cycling,0.0,0.0,0.0
+215,989207170,Jefferson Milano,VEN,male,1995-11-21,1.85,85.0,cycling,0.0,0.0,0.0
+216,470772822,Jeffrey Hoogland,NED,male,1993-03-16,1.85,97.0,cycling,0.0,0.0,0.0
+217,763826075,Jelle van Gorkom,NED,male,1991-01-05,1.87,93.0,cycling,0.0,1.0,0.0
+218,385452766,Jennifer Cesar,VEN,female,1989-05-26,1.59,57.0,cycling,0.0,0.0,0.0
+219,871842382,Jennifer Valente,USA,female,1994-12-24,1.76,74.0,cycling,0.0,1.0,0.0
+220,87849675,Jenny Rissveds,SWE,female,1994-06-06,1.65,55.0,cycling,1.0,0.0,0.0
+221,229792766,Jens Schuermans,BEL,male,1993-02-13,1.75,64.0,cycling,0.0,0.0,0.0
+222,222564871,Jeremy Rencurel,FRA,male,1995-04-13,1.81,83.0,cycling,0.0,0.0,0.0
+223,897539865,Jeyong Son,KOR,male,1994-01-12,1.77,70.0,cycling,0.0,0.0,0.0
+224,87944431,Jhoan Esteban Chaves Rubio,COL,male,1990-01-17,1.64,54.0,cycling,0.0,0.0,0.0
+225,518155505,Jhonnatan Botero Villegas,COL,male,1992-04-27,1.67,58.0,cycling,0.0,0.0,0.0
+226,262158592,Jinjie Gong,CHN,female,1986-11-12,1.65,65.0,cycling,1.0,0.0,0.0
+227,472743592,Joachim Eilers,GER,male,1990-04-02,1.85,90.0,cycling,0.0,0.0,0.0
+228,929833418,Joanna Rowsell-Shand,GBR,female,1988-12-05,1.8,69.0,cycling,1.0,0.0,0.0
+229,548003782,Joaquim Rodriguez Oliver,ESP,male,1979-05-12,1.69,59.0,cycling,0.0,0.0,0.0
+230,22338705,Jolanda Neff,SUI,female,1993-01-05,1.68,53.0,cycling,0.0,0.0,0.0
+231,808313337,Jolien D'hoore,BEL,female,1990-03-14,1.76,64.0,cycling,0.0,0.0,1.0
+232,911513755,Jon Izaguirre Insausti,ESP,male,1989-02-04,1.72,61.0,cycling,0.0,0.0,0.0
+233,809086718,Jonathan Castroviejo Nicolas,ESP,male,1987-04-27,1.72,64.0,cycling,0.0,0.0,0.0
+234,183836938,Joonyong Seo,KOR,male,1988-03-14,1.74,65.0,cycling,0.0,0.0,0.0
+235,964164116,Joost van der Burg,NED,male,1993-12-11,1.81,72.0,cycling,0.0,0.0,0.0
+236,692369210,Joris Daudet,FRA,male,1991-02-12,1.84,78.0,cycling,0.0,0.0,0.0
+237,914289728,Jose Antonio Hermida Ramos,ESP,male,1978-08-24,1.72,67.0,cycling,0.0,0.0,0.0
+238,112540010,Jose Joao Pimenta Costa Mendes,POR,male,1985-04-24,1.81,65.0,cycling,0.0,0.0,0.0
+239,767377720,Jose Luis Rodriguez,CHI,male,1994-06-01,1.8,75.0,cycling,0.0,0.0,0.0
+240,113412907,Jovana Crnogorac,SRB,female,1992-02-29,1.7,56.0,cycling,0.0,0.0,0.0
+241,59463707,Juan Peralta Gascon,ESP,male,1990-05-17,1.94,93.0,cycling,0.0,0.0,0.0
+242,396350226,Julian Alaphilippe,FRA,male,1992-06-11,1.73,62.0,cycling,0.0,0.0,0.0
+243,550164775,Juliana Gaviria Rendon,COL,female,1991-03-31,1.65,58.0,cycling,0.0,0.0,0.0
+244,303814544,Julien Absalon,FRA,male,1980-08-16,1.8,68.0,cycling,0.0,0.0,0.0
+245,769813502,Justyna Kaczkowska,POL,female,1997-10-07,1.74,71.0,cycling,0.0,0.0,0.0
+246,571537130,Jutatip Maneephan,THA,female,1988-07-08,1.57,57.0,cycling,0.0,0.0,0.0
+247,743593230,Kamil Kuczynski,POL,male,1985-03-23,1.7466260162601637,67.75510204081633,cycling,0.0,0.0,0.0
+248,791361517,Kanstantsin Siutsou,BLR,male,1982-08-09,1.84,70.0,cycling,0.0,0.0,0.0
+249,206688360,Karol-Ann Canuel,CAN,female,1988-04-18,1.63,51.0,cycling,0.0,0.0,0.0
+250,952109931,Katarzyna Niewiadoma,POL,female,1994-09-29,1.7466260162601637,67.75510204081633,cycling,0.0,0.0,0.0
+251,562453603,Kate O'Brien,CAN,female,1988-07-23,1.68,70.0,cycling,0.0,0.0,0.0
+252,455000082,Katerina Nash,CZE,female,1977-12-09,1.64,52.0,cycling,0.0,0.0,0.0
+253,437866225,Katie Archibald,GBR,female,1994-03-12,1.78,70.0,cycling,1.0,0.0,0.0
+254,668148835,Katrin Garfoot,AUS,female,1981-10-08,1.66,56.0,cycling,0.0,0.0,0.0
+255,758751258,Katy Marchant,GBR,female,1993-01-30,1.7,72.0,cycling,0.0,0.0,1.0
+256,717693447,Kazunari Watanabe,JPN,male,1983-08-12,1.76,80.0,cycling,0.0,0.0,0.0
+257,609247354,Kazushige Kuboki,JPN,male,1989-06-06,1.72,65.0,cycling,0.0,0.0,0.0
+258,828916384,Kelly Catlin,USA,female,1995-11-03,1.68,63.0,cycling,0.0,1.0,0.0
+259,897407929,Kersten Thiele,GER,male,1992-09-29,1.79,75.0,cycling,0.0,0.0,0.0
+260,637755383,King Lok Cheung,HKG,male,1991-02-08,1.72,77.0,cycling,0.0,0.0,0.0
+261,907795948,Kirsten Wild,NED,female,1982-10-15,1.78,78.0,cycling,0.0,0.0,0.0
+262,917790149,Kirsti Lay,CAN,female,1988-04-07,1.73,65.0,cycling,0.0,0.0,1.0
+263,675747408,Kleber da Silva Ramos,BRA,male,1985-08-24,1.67,65.0,cycling,0.0,0.0,0.0
+264,608163038,Kohei Uchima,JPN,male,1988-11-08,1.7,60.0,cycling,0.0,0.0,0.0
+265,86038956,Kohei Yamamoto,JPN,male,1985-08-20,1.82,69.0,cycling,0.0,0.0,0.0
+266,884195361,Kristijan Durasek,CRO,male,1987-07-26,1.7,57.0,cycling,0.0,0.0,0.0
+267,791417527,Kristin Armstrong,USA,female,1973-08-11,1.73,58.0,cycling,1.0,0.0,0.0
+268,108583641,Kristina Vogel,GER,female,1990-11-10,1.6,66.0,cycling,1.0,0.0,1.0
+269,840441745,Krzysztof Maksel,POL,male,1991-07-04,1.81,80.0,cycling,0.0,0.0,0.0
+270,245877079,Kyle Dodd,RSA,male,1994-02-11,1.78,80.0,cycling,0.0,0.0,0.0
+271,599766410,Kyle Evans,GBR,male,1993-09-26,1.8,81.0,cycling,0.0,0.0,0.0
+272,791318566,Lars Forster,SUI,male,1993-08-01,1.77,68.0,cycling,0.0,0.0,0.0
+273,857905937,Lars Petter Nordhaug,NOR,male,1984-05-14,1.7466260162601637,67.75510204081633,cycling,0.0,0.0,0.0
+274,345588226,Lasse Norman Hansen,DEN,male,1992-02-11,1.8,73.0,cycling,0.0,0.0,2.0
+275,529217667,Laura Brown,CAN,female,1986-11-27,1.67,61.0,cycling,0.0,0.0,1.0
+276,250953403,Laura Smulders,NED,female,1993-12-09,1.7,73.0,cycling,0.0,0.0,0.0
+277,371337915,Laura Trott,GBR,female,1992-04-24,1.64,56.0,cycling,2.0,0.0,0.0
+278,208831332,Lauren Ellis,NZL,female,1989-04-19,1.66,64.0,cycling,0.0,0.0,0.0
+279,766647760,Lauren Reynolds,AUS,female,1991-06-25,1.76,69.0,cycling,0.0,0.0,0.0
+280,935729210,Laurens de Plus,BEL,male,1995-09-04,1.88,67.0,cycling,0.0,0.0,0.0
+281,410803236,Laurie Berthon,FRA,female,1991-08-26,1.69,69.0,cycling,0.0,0.0,0.0
+282,256435241,Laurine van Riessen,NED,female,1987-08-10,1.67,63.0,cycling,0.0,0.0,0.0
+283,129629128,Lea Davison,USA,female,1983-05-19,1.68,55.0,cycling,0.0,0.0,0.0
+284,49883014,Leah Kirchmann,CAN,female,1990-06-30,1.67,59.0,cycling,0.0,0.0,0.0
+285,793474789,Leandre Bouchard,CAN,male,1992-10-20,1.93,81.0,cycling,0.0,0.0,0.0
+286,74708917,Leopold Konig,CZE,male,1987-11-15,1.78,62.0,cycling,0.0,0.0,0.0
+287,865915642,Liam Bertazzo,ITA,male,1992-02-17,1.85,70.0,cycling,0.0,0.0,0.0
+288,945401924,Liam Phillips,GBR,male,1989-03-11,1.81,85.0,cycling,0.0,0.0,0.0
+289,849736805,Linda Indergand,SUI,female,1993-07-13,1.69,65.0,cycling,0.0,0.0,0.0
+290,446754440,Linda Villumsen,NZL,female,1985-04-09,1.65,58.0,cycling,0.0,0.0,0.0
+291,416331629,Lisa Brennauer,GER,female,1988-06-08,1.68,63.0,cycling,0.0,0.0,0.0
+292,18063764,Lisa Klein,GER,female,1996-07-15,1.7,62.0,cycling,0.0,0.0,0.0
+293,531666136,Lisandra Guerra Rodriguez,CUB,female,1987-10-31,1.67,69.0,cycling,0.0,0.0,0.0
+294,307207034,Liubov Basova,UKR,female,1988-07-16,1.62,65.0,cycling,0.0,0.0,0.0
+295,809986793,Lotta Lepisto,FIN,female,1989-06-28,1.64,58.0,cycling,0.0,0.0,0.0
+296,290076256,Lotte Kopecky,BEL,female,1995-11-10,1.71,66.0,cycling,0.0,0.0,0.0
+297,99752368,Louis Meintjes,RSA,male,1992-02-21,1.73,58.0,cycling,0.0,0.0,0.0
+298,338874266,Luca Braidot,ITA,male,1991-05-29,1.79,69.0,cycling,0.0,0.0,0.0
+299,23362328,Luis Brethauer,GER,male,1992-09-14,1.76,82.0,cycling,0.0,0.0,0.0
+300,133697198,Luis Enrique Lemus Davila,MEX,male,1992-04-21,1.73,61.0,cycling,0.0,0.0,0.0
+301,280514109,Maciej Bodnar,POL,male,1985-03-07,1.86,78.0,cycling,0.0,0.0,0.0
+302,793000755,Maja Wloszczowska,POL,female,1983-11-09,1.7,54.0,cycling,0.0,1.0,0.0
+303,608604431,Maksym Averin,AZE,male,1985-11-28,1.89,75.0,cycling,0.0,0.0,0.0
+304,159953794,Malgorzata Wojtyra,POL,female,1989-09-21,1.76,70.0,cycling,0.0,0.0,0.0
+305,185574911,Malgorzta Jasinska,POL,female,1984-01-18,1.69,57.0,cycling,0.0,0.0,0.0
+306,620704693,Manon Valentino,FRA,female,1990-08-25,1.72,64.0,cycling,0.0,0.0,0.0
+307,896925712,Manuel Fumic,GER,male,1982-03-30,1.73,68.0,cycling,0.0,0.0,0.0
+308,91551077,Manuel Rodas Ochoa,GUA,male,1984-07-05,1.71,67.0,cycling,0.0,0.0,0.0
+309,547395563,Mara Abbott,USA,female,1985-11-14,1.63,52.0,cycling,0.0,0.0,0.0
+310,271177180,Marco Aurelio Fontana,ITA,male,1984-10-12,1.72,68.0,cycling,0.0,0.0,0.0
+311,821892550,Maria Gabriela Diaz,ARG,female,1981-01-02,1.6,53.0,cycling,0.0,0.0,0.0
+312,261061286,Mark Cavendish,GBR,male,1985-05-21,1.75,70.0,cycling,0.0,1.0,0.0
+313,349029560,Marlies Mejias Garcia,CUB,female,1992-12-29,1.68,60.0,cycling,0.0,0.0,0.0
+314,820822830,Martha Bayona Pineda,COL,female,1995-08-12,1.55,60.0,cycling,0.0,0.0,0.0
+315,12278954,Martina Ritter,AUT,female,1982-09-23,1.74,59.0,cycling,0.0,0.0,0.0
+316,798424406,Matej Mohoric,SLO,male,1994-10-19,1.85,67.0,cycling,0.0,0.0,0.0
+317,286373803,Mathias Fluckiger,SUI,male,1988-09-27,1.72,65.0,cycling,0.0,0.0,0.0
+318,537360256,Matija Kvasina,CRO,male,1981-12-04,1.8,72.0,cycling,0.0,0.0,0.0
+319,925341714,Matthew Baranoski,USA,male,1993-07-27,1.83,96.0,cycling,0.0,0.0,0.0
+320,986397793,Matthew Glaetzer,AUS,male,1992-08-24,1.9,86.0,cycling,0.0,0.0,0.0
+321,103170142,Matthijs Buchli,NED,male,1992-12-13,1.88,90.0,cycling,0.0,1.0,0.0
+322,232790653,Max Niederlag,GER,male,1993-05-05,1.83,85.0,cycling,0.0,0.0,0.0
+323,232147471,Maxime Marotte,FRA,male,1986-12-05,1.72,62.0,cycling,0.0,0.0,0.0
+324,887043487,Maximilian Levy,GER,male,1987-06-26,1.82,87.0,cycling,0.0,0.0,0.0
+325,243609847,Maximiliano Ariel Richeze,ARG,male,1983-03-07,1.77,70.0,cycling,0.0,0.0,0.0
+326,702444425,Megan Guarnier,USA,female,1985-05-04,1.63,54.0,cycling,0.0,0.0,0.0
+327,595667372,Mei Yu Hsiao,TPE,female,1985-01-07,1.62,58.0,cycling,0.0,0.0,0.0
+328,910455517,Melissa Hoskins,AUS,female,1991-02-24,1.75,64.0,cycling,0.0,0.0,0.0
+329,401470235,Menglu Ma,CHN,female,1997-09-24,1.67,61.0,cycling,0.0,0.0,0.0
+330,905398230,Merle van Benthem,NED,female,1992-12-07,1.7,68.0,cycling,0.0,0.0,0.0
+331,909720625,Michael Albasini,SUI,male,1980-12-20,1.72,67.0,cycling,0.0,0.0,0.0
+332,992884097,Michael D'Almeida,FRA,male,1987-09-03,1.76,80.0,cycling,0.0,0.0,1.0
+333,156951365,Michael Hepburn,AUS,male,1991-08-17,1.86,77.0,cycling,0.0,1.0,0.0
+334,871224571,Michael Woods,CAN,male,1986-10-12,1.75,63.0,cycling,0.0,0.0,0.0
+335,513183631,Michal Golas,POL,male,1984-04-29,1.8,66.0,cycling,0.0,0.0,0.0
+336,223037038,Michal Kwiatkowski,POL,male,1990-06-02,1.76,66.0,cycling,0.0,0.0,0.0
+337,760953520,Michele Scartezzini,ITA,male,1992-01-10,1.7466260162601637,67.75510204081633,cycling,0.0,0.0,0.0
+338,987215853,Michelle Vorster,NAM,female,1978-09-12,1.67,57.0,cycling,0.0,0.0,0.0
+339,521050855,Mieke Kroger,GER,female,1993-07-18,1.81,78.0,cycling,0.0,0.0,0.0
+340,280398491,Miguel Angel Lopez Moreno,COL,male,1994-02-04,1.7,58.0,cycling,0.0,0.0,0.0
+341,658229421,Miguel Ubeto Aponte,VEN,male,1976-09-02,1.68,70.0,cycling,0.0,0.0,0.0
+342,825689633,Milagro Mena,CRC,female,1993-04-30,1.7466260162601637,67.75510204081633,cycling,0.0,0.0,0.0
+343,929012474,Miriam Welte,GER,female,1986-12-09,1.71,67.0,cycling,0.0,0.0,1.0
+344,508919033,Mirsamad Pourseyedigolakhour,IRI,male,1985-10-15,1.8,65.0,cycling,0.0,0.0,0.0
+345,643397164,Monique Sullivan,CAN,female,1989-02-21,1.67,70.0,cycling,0.0,0.0,0.0
+346,613123178,Moritz Milatz,GER,male,1982-06-24,1.73,65.0,cycling,0.0,0.0,0.0
+347,853620753,Mouhssine Lahsaini,MAR,male,1985-08-23,1.84,77.0,cycling,0.0,0.0,0.0
+348,313174082,Murilo Antonio Fischer,BRA,male,1979-06-16,1.7,68.0,cycling,0.0,0.0,0.0
+349,271635042,Nadja Pries,GER,female,1994-05-20,1.61,56.0,cycling,0.0,0.0,0.0
+350,496598838,Natalia Rutkowska,POL,female,1991-01-21,1.62,56.0,cycling,0.0,0.0,0.0
+351,143252275,Natasha Hansen,NZL,female,1989-11-15,1.67,66.0,cycling,0.0,0.0,0.0
+352,440261722,Nathan Byukusenge,RWA,male,1980-08-08,1.7466260162601637,67.75510204081633,cycling,0.0,0.0,0.0
+353,532748337,Nathan Hart,AUS,male,1993-03-04,1.8,90.0,cycling,0.0,0.0,0.0
+354,526118539,Nelson Filipe Santos Simoes Oliveira,POR,male,1989-03-06,1.8,67.0,cycling,0.0,0.0,0.0
+355,550972021,Nicholas Long,USA,male,1989-10-06,1.88,86.0,cycling,0.0,0.0,0.0
+356,238155568,Nicolas Roche,IRL,male,1984-07-03,1.78,70.0,cycling,0.0,0.0,0.0
+357,250399527,Nikita Shurshin,RUS,male,1993-04-08,1.92,96.0,cycling,0.0,0.0,0.0
+358,298646249,Nikki Harris,GBR,female,1986-12-30,1.76,60.0,cycling,0.0,0.0,0.0
+359,606084836,Niklas Larsen,DEN,male,1997-03-22,1.8,74.0,cycling,0.0,0.0,1.0
+360,898426175,Niklas Laustsen,DEN,male,1992-08-30,1.89,95.0,cycling,0.0,0.0,0.0
+361,471728310,Nils Schomber,GER,male,1994-03-15,1.83,72.0,cycling,0.0,0.0,0.0
+362,625149958,Nils van 't Hoenderdaal,NED,male,1993-10-03,1.78,86.0,cycling,0.0,0.0,0.0
+363,399376832,Njisane Phillip,TTO,male,1991-05-29,1.7466260162601637,67.75510204081633,cycling,0.0,0.0,0.0
+364,520738573,Okcheol Kim,KOR,male,1994-11-16,1.79,70.0,cycling,0.0,0.0,0.0
+365,527015303,Olena Pavlukhina,AZE,female,1989-03-01,1.78,68.0,cycling,0.0,0.0,0.0
+366,839908037,Olga Ismayilova,AZE,female,1985-09-16,1.7,71.0,cycling,0.0,0.0,0.0
+367,341366636,Olga Zabelinskaya,RUS,female,1980-05-10,1.7466260162601637,67.75510204081633,cycling,0.0,1.0,0.0
+368,77219667,Olivia Podmore,NZL,female,1997-05-24,1.74,64.0,cycling,0.0,0.0,0.0
+369,788666996,Olivier Beer,SUI,male,1990-10-18,1.8,69.0,cycling,0.0,0.0,0.0
+370,880358779,Ondrej Cink,CZE,male,1990-12-07,1.78,68.0,cycling,0.0,0.0,0.0
+371,31333880,Onur Balkan,TUR,male,1996-03-10,1.76,70.0,cycling,0.0,0.0,0.0
+372,473764617,Oscar Soliz Vilca,BOL,male,1985-01-09,1.68,59.0,cycling,0.0,0.0,0.0
+373,745286605,Owain Doull,GBR,male,1993-05-02,1.81,73.0,cycling,1.0,0.0,0.0
+374,124063612,Paola Munoz,CHI,female,1986-04-13,1.64,54.0,cycling,0.0,0.0,0.0
+375,581538049,Patrick Constable,AUS,male,1995-07-15,1.83,95.0,cycling,0.0,0.0,0.0
+376,745764315,Patrik Tybor,SVK,male,1987-09-16,1.86,89.0,cycling,0.0,0.0,0.0
+377,401150367,Pauline Ferrand Prevot,FRA,female,1992-02-10,1.64,52.0,cycling,0.0,0.0,0.0
+378,693513512,Pavel Kelemen,CZE,male,1991-05-28,1.85,83.0,cycling,0.0,0.0,0.0
+379,99074928,Pavel Kochetkov,RUS,male,1986-03-07,1.84,72.0,cycling,0.0,0.0,0.0
+380,653763497,Perrine Clauzel,FRA,female,1994-04-05,1.55,47.0,cycling,0.0,0.0,0.0
+381,703243129,Peter Lombard Ii,GUM,male,1976-05-24,1.7,73.0,cycling,0.0,0.0,0.0
+382,402795962,Petr Vakoc,CZE,male,1992-07-11,1.8,70.0,cycling,0.0,0.0,0.0
+383,729088638,Phetetso Monese,LES,male,1984-09-22,1.7466260162601637,67.75510204081633,cycling,0.0,0.0,0.0
+384,229176554,Philip Hindes,GBR,male,1992-09-22,1.78,82.0,cycling,1.0,0.0,0.0
+385,897247005,Philippe Gilbert,BEL,male,1982-07-05,1.79,72.0,cycling,0.0,0.0,0.0
+386,635258187,Pieter Bulling,NZL,male,1993-03-02,1.79,77.0,cycling,0.0,0.0,0.0
+387,859561876,Ping Yao,CHN,female,1993-03-19,1.6,58.0,cycling,0.0,0.0,0.0
+388,138538135,Pingan Shen,CHN,male,1994-04-20,1.82,73.0,cycling,0.0,0.0,0.0
+389,171878949,Polona Batagelj,SLO,female,1989-06-07,1.73,53.0,cycling,0.0,0.0,0.0
+390,990896999,Primoz Roglic,SLO,male,1989-10-29,1.77,66.0,cycling,0.0,0.0,0.0
+391,230616729,Priscilla Stevaux Carnaval,BRA,female,1993-12-02,1.56,58.0,cycling,0.0,0.0,0.0
+392,598446702,Qendrim Guri,KOS,male,1993-11-27,1.75,70.0,cycling,0.0,0.0,0.0
+393,844090644,Rachel Neylan,AUS,female,1982-03-09,1.69,52.0,cycling,0.0,0.0,0.0
+394,644175866,Racquel Sheath,NZL,female,1994-11-27,1.65,57.0,cycling,0.0,0.0,0.0
+395,888503746,Rafal Majka,POL,male,1989-09-12,1.73,61.0,cycling,0.0,0.0,1.0
+396,650690707,Rafal Sarnecki,POL,male,1990-01-08,1.75,81.0,cycling,0.0,0.0,0.0
+397,608420333,Raiza Goulao-Henrique,BRA,female,1991-02-28,1.68,56.0,cycling,0.0,0.0,0.0
+398,655303301,Ramunas Navardauskas,LTU,male,1988-01-30,1.9,78.0,cycling,0.0,0.0,0.0
+399,738350082,Raphael Gagne,CAN,male,1987-07-16,1.73,67.0,cycling,0.0,0.0,0.0
+400,223728241,Rasmus Christian Quaade,DEN,male,1990-01-07,1.87,77.0,cycling,0.0,0.0,1.0
+401,109265734,Rebecca Henderson,AUS,female,1991-09-27,1.58,49.0,cycling,0.0,0.0,0.0
+402,360632507,Rebecca James,GBR,female,1991-11-29,1.71,66.0,cycling,0.0,2.0,0.0
+403,437714118,Regan Gough,NZL,male,1996-10-06,1.83,71.0,cycling,0.0,0.0,0.0
+404,728475978,Rein Taaramae,EST,male,1987-04-24,1.85,75.0,cycling,0.0,0.0,0.0
+405,466194153,Renato Rezende,BRA,male,1991-02-28,1.71,72.0,cycling,0.0,0.0,0.0
+406,394581018,Rene Enders,GER,male,1987-02-13,1.65,77.0,cycling,0.0,0.0,0.0
+407,145755728,Richie Porte,AUS,male,1985-01-30,1.72,62.0,cycling,0.0,0.0,0.0
+408,989632205,Rigoberto Uran Uran,COL,male,1987-01-26,1.71,63.0,cycling,0.0,0.0,0.0
+409,9609361,Roger Kluge,GER,male,1986-02-05,1.91,85.0,cycling,0.0,0.0,0.0
+410,571443859,Rohan Dennis,AUS,male,1990-05-28,1.82,72.0,cycling,0.0,0.0,0.0
+411,312873200,Romain Bardet,FRA,male,1990-11-09,1.84,64.0,cycling,0.0,0.0,0.0
+412,201879323,Romy Kasper,GER,female,1988-05-05,1.73,59.0,cycling,0.0,0.0,0.0
+413,411710210,Ruben Scheire,BEL,male,1991-12-06,1.75,62.0,cycling,0.0,0.0,0.0
+414,179815659,Rubens Donizete Valeriano,BRA,male,1979-08-14,1.73,69.0,cycling,0.0,0.0,0.0
+415,232202316,Rudi van Houts,NED,male,1984-01-16,1.77,64.0,cycling,0.0,0.0,0.0
+416,990887420,Rui Alberto Faria da Costa,POR,male,1986-10-05,1.83,68.0,cycling,0.0,0.0,0.0
+417,85111828,Rushlee Buchanan,NZL,female,1988-01-20,1.7,63.0,cycling,0.0,0.0,0.0
+418,532261640,Ruth Winder,USA,female,1993-07-09,1.63,57.0,cycling,0.0,0.0,0.0
+419,265460437,Sakura Tsukagoshi,JPN,female,1991-04-13,1.68,60.0,cycling,0.0,0.0,0.0
+420,479073328,Sam Webster,NZL,male,1991-07-16,1.83,80.0,cycling,0.0,1.0,0.0
+421,419064340,Sam Welsford,AUS,male,1996-01-19,1.79,82.0,cycling,0.0,1.0,0.0
+422,55429092,Sam Willoughby,AUS,male,1991-08-15,1.73,87.0,cycling,0.0,0.0,0.0
+423,443125316,Samuel Gaze,NZL,male,1995-12-12,1.89,79.0,cycling,0.0,0.0,0.0
+424,603435489,Sandie Clair,FRA,female,1988-04-01,1.6,60.0,cycling,0.0,0.0,0.0
+425,592791233,Sanghoon Park,KOR,male,1993-03-13,1.83,77.0,cycling,0.0,0.0,0.0
+426,929112768,Santiago Ramirez Morales,COL,male,1994-07-20,1.8,82.0,cycling,0.0,0.0,0.0
+427,686409294,Sara Mustonen,SWE,female,1981-02-08,1.61,58.0,cycling,0.0,0.0,0.0
+428,773163998,Sarah Hammer,USA,female,1983-08-18,1.71,65.0,cycling,0.0,2.0,0.0
+429,783419907,Scott Bowden,AUS,male,1995-04-04,1.75,65.0,cycling,0.0,0.0,0.0
+430,421109661,Sebastien Reichenbach,SUI,male,1989-05-28,1.78,65.0,cycling,0.0,0.0,0.0
+431,881914341,Seiichiro Nakagawa,JPN,male,1979-06-07,1.74,78.0,cycling,0.0,0.0,0.0
+432,612124451,Serge Pauwels,BEL,male,1983-11-21,1.77,64.0,cycling,0.0,0.0,0.0
+433,151596328,Sergei Chernetski,RUS,male,1990-04-09,1.76,63.0,cycling,0.0,0.0,0.0
+434,825721013,Serghei Tvetcov,ROU,male,1988-12-29,1.78,70.0,cycling,0.0,0.0,0.0
+435,848761398,Sergio Luis Henao Montoya,COL,male,1987-12-10,1.7,61.0,cycling,0.0,0.0,0.0
+436,690199324,Shani Bloch,ISR,female,1979-03-06,1.62,59.0,cycling,0.0,0.0,0.0
+437,368129090,Shanne Braspennincx,NED,female,1991-05-18,1.72,78.0,cycling,0.0,0.0,0.0
+438,861802437,Shannon McCurley,IRL,female,1992-04-26,1.63,65.0,cycling,0.0,0.0,0.0
+439,880751102,Shlomi Haimy,ISR,male,1989-06-19,1.67,58.0,cycling,0.0,0.0,0.0
+440,486158932,Silvan Dillier,SUI,male,1990-08-03,1.83,73.0,cycling,0.0,0.0,0.0
+441,688147154,Silvia Valsecchi,ITA,female,1982-07-19,1.6,60.0,cycling,0.0,0.0,0.0
+442,242744402,Simon Andreassen,DEN,male,1997-09-30,1.77,68.0,cycling,0.0,0.0,0.0
+443,910071832,Simon Clarke,AUS,male,1986-07-18,1.7466260162601637,67.75510204081633,cycling,0.0,0.0,0.0
+444,585225700,Simon Geschke,GER,male,1986-03-13,1.7,64.0,cycling,0.0,0.0,0.0
+445,568958895,Simon Spilak,SLO,male,1986-06-23,1.77,68.0,cycling,0.0,0.0,0.0
+446,901255564,Simona Frapporti,ITA,female,1988-07-14,1.77,65.0,cycling,0.0,0.0,0.0
+447,626251390,Simona Krupeckaite,LTU,female,1982-12-13,1.7,70.0,cycling,0.0,0.0,0.0
+448,303317190,Simone Christensen,DEN,female,1994-02-10,1.7,68.0,cycling,0.0,0.0,0.0
+449,218481152,Simone Consonni,ITA,male,1994-09-12,1.65,60.0,cycling,0.0,0.0,0.0
+450,64329847,Soufiane Haddi,MAR,male,1991-02-02,1.69,64.0,cycling,0.0,0.0,0.0
+451,674224579,Stefan Denifl,AUT,male,1987-09-20,1.79,65.0,cycling,0.0,0.0,0.0
+452,131551003,Stefan Hristov,BUL,male,1985-07-12,1.75,59.0,cycling,0.0,0.0,0.0
+453,223169136,Stefany Hernandez,VEN,female,1991-06-15,1.65,65.0,cycling,0.0,0.0,1.0
+454,154640306,Stephanie Morton,AUS,female,1990-11-28,1.77,77.0,cycling,0.0,0.0,0.0
+455,932494249,Stephanie Pohl,GER,female,1987-10-21,1.6,51.0,cycling,0.0,0.0,0.0
+456,254081121,Stephen Cummings,GBR,male,1981-03-19,1.9,75.0,cycling,0.0,0.0,0.0
+457,226464933,Steve Morabito,SUI,male,1983-01-30,1.87,73.0,cycling,0.0,0.0,0.0
+458,226636545,Steven Burke,GBR,male,1988-03-04,1.83,78.0,cycling,1.0,0.0,0.0
+459,51098946,Steven Kruijswijk,NED,male,1987-06-07,1.77,64.0,cycling,0.0,0.0,0.0
+460,167125216,Sven Erik Bystrom,NOR,male,1992-01-21,1.7466260162601637,67.75510204081633,cycling,0.0,0.0,0.0
+461,395892993,Tanel Kangert,EST,male,1987-03-11,1.78,66.0,cycling,0.0,0.0,0.0
+462,415410367,Tania Calvo Barbero,ESP,female,1992-06-26,1.66,64.0,cycling,0.0,0.0,0.0
+463,65779574,Tanja Zakelj,SLO,female,1988-09-15,1.59,56.0,cycling,0.0,0.0,0.0
+464,347121929,Tara Whitten,CAN,female,1980-07-13,1.66,67.0,cycling,0.0,0.0,0.0
+465,374496832,Tatiana Guderzo,ITA,female,1984-08-22,1.6,55.0,cycling,0.0,0.0,0.0
+466,194275450,Tatsiana Sharakova,BLR,female,1984-07-31,1.6,52.0,cycling,0.0,0.0,0.0
+467,32103246,Taylor Phinney,USA,male,1990-06-27,1.96,81.0,cycling,0.0,0.0,0.0
+468,215472787,Theo Bos,NED,male,1983-08-22,1.9,85.0,cycling,0.0,0.0,0.0
+469,306944769,Theo Reinhardt,GER,male,1990-09-17,1.77,68.0,cycling,0.0,0.0,0.0
+470,27368310,Thery Schir,SUI,male,1993-02-18,1.86,77.0,cycling,0.0,0.0,0.0
+471,896818368,Thomas Boudat,FRA,male,1994-02-24,1.75,69.0,cycling,0.0,0.0,0.0
+472,697851562,Tiago Jorge Oliveira Ferreira,POR,male,1988-12-07,1.94,74.0,cycling,0.0,0.0,0.0
+473,439028036,Tianshi Zhong,CHN,female,1991-02-02,1.68,62.0,cycling,1.0,0.0,0.0
+474,609839139,Tim Veldt,NED,male,1984-02-14,1.86,78.0,cycling,0.0,0.0,0.0
+475,157166055,Tim Wellens,BEL,male,1991-05-10,1.83,77.0,cycling,0.0,0.0,0.0
+476,975655821,Ting Ying Huang,TPE,female,1990-05-29,1.6,67.75510204081633,cycling,0.0,0.0,0.0
+477,200377186,Tom Dumoulin,NED,male,1990-11-11,1.86,70.0,cycling,0.0,1.0,0.0
+478,53505297,Toms Skujins,LAT,male,1991-06-15,1.8,70.0,cycling,0.0,0.0,0.0
+479,464586921,Toni Syarifudin,INA,male,1991-06-13,1.64,68.0,cycling,0.0,0.0,0.0
+480,764236472,Tore Navrestad,NOR,male,1996-02-19,1.7466260162601637,67.75510204081633,cycling,0.0,0.0,0.0
+481,219098253,Tory Nyhaug,CAN,male,1992-04-17,1.85,92.0,cycling,0.0,0.0,0.0
+482,521984542,Trent Jones,NZL,male,1994-08-12,1.85,87.0,cycling,0.0,0.0,0.0
+483,209701462,Trixi Worrack,GER,female,1981-09-28,1.59,50.0,cycling,0.0,0.0,0.0
+484,169995559,Tsgabu Gebremaryam Grmay,ETH,male,1991-08-25,1.75,63.0,cycling,0.0,0.0,0.0
+485,380875835,Twan van Gendt,NED,male,1992-06-09,1.78,85.0,cycling,0.0,0.0,0.0
+486,877590829,Vasil Kiryienka,BLR,male,1981-06-28,1.82,75.0,cycling,0.0,0.0,0.0
+487,655301496,Vegard Stake Laengen,NOR,male,1989-02-07,1.7466260162601637,67.75510204081633,cycling,0.0,0.0,0.0
+488,322708523,Vera Adrian,NAM,female,1993-10-28,1.68,57.0,cycling,0.0,0.0,0.0
+489,928628945,Victor Koretzky,FRA,male,1994-08-26,1.8,69.0,cycling,0.0,0.0,0.0
+490,242715735,Vincenzo Nibali,ITA,male,1984-11-14,1.8,60.0,cycling,0.0,0.0,0.0
+491,756374787,Virginie Cueff,FRA,female,1988-06-18,1.7,63.0,cycling,0.0,0.0,0.0
+492,930876031,Vita Heine,NOR,female,1984-11-21,1.7466260162601637,67.75510204081633,cycling,0.0,0.0,0.0
+493,620093926,Wai Sze Lee,HKG,female,1987-05-12,1.65,62.0,cycling,0.0,0.0,0.0
+494,187564963,Warren Barguil,FRA,male,1991-10-28,1.84,62.0,cycling,0.0,0.0,0.0
+495,732552796,Wim Stroetinga,NED,male,1985-05-23,1.76,70.0,cycling,0.0,0.0,0.0
+496,474296927,Wout Poels,NED,male,1987-10-01,1.86,67.0,cycling,0.0,0.0,0.0
+497,695366318,Xiao Juan Diao,HKG,female,1986-03-15,1.7,59.0,cycling,0.0,0.0,0.0
+498,713954597,Xiaoling Luo,CHN,female,1988-09-20,1.7,68.0,cycling,0.0,0.0,0.0
+499,294527962,Yali Jing,CHN,female,1989-05-25,1.76,63.0,cycling,0.0,0.0,0.0
+500,541557997,Yana Belomoina,UKR,female,1992-11-02,1.64,46.0,cycling,0.0,0.0,0.0
+501,136270822,Yang Fan,CHN,male,1990-01-03,1.83,78.0,cycling,0.0,0.0,0.0
+502,649661769,Yaroslava Bondarenko,RUS,female,1997-02-27,1.58,62.0,cycling,0.0,0.0,0.0
+503,291959436,Yonathan Monsalve,VEN,male,1989-06-28,1.76,62.0,cycling,0.0,0.0,0.0
+504,435666182,Yoshitaku Nagasako,JPN,male,1993-09-16,1.72,70.0,cycling,0.0,0.0,0.0
+505,897401460,Youcef Reguigui,ALG,male,1990-01-09,1.74,68.0,cycling,0.0,0.0,0.0
+506,421409834,Yousef Mirza Banihammad,UAE,male,1988-10-08,1.76,60.0,cycling,0.0,0.0,0.0
+507,492326920,Yukiya Arashiro,JPN,male,1984-09-22,1.71,64.0,cycling,0.0,0.0,0.0
+508,116013385,Yuta Wakimoto,JPN,male,1989-03-21,1.81,74.0,cycling,0.0,0.0,0.0
+509,503085577,Zac Williams,NZL,male,1995-07-21,1.8,89.0,cycling,0.0,0.0,0.0
+510,538896901,Zdenek Stybar,CZE,male,1985-12-11,1.83,72.0,cycling,0.0,0.0,0.0
+511,989437678,Zhao Juan Meng,HKG,female,1989-12-14,1.7,60.0,cycling,0.0,0.0,0.0
+512,448660080,Zhen Wang,CHN,male,1989-06-26,1.72,65.0,cycling,0.0,0.0,0.0
